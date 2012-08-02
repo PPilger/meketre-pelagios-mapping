@@ -22,6 +22,7 @@ public abstract class Annotation {
 		if (title.length() < 1) {
 			return "";
 		}
+		
 		return title.substring(0, title.length() - 1);
 	}
 
