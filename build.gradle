@@ -3,10 +3,4 @@ apply plugin: 'eclipse'
 
 sourceCompatibility = 1.6
 
-sourceSets {
-	main {
-		java {
-			srcDir 'src/main/java'
-		}
-	}
-}
+files('src')	
