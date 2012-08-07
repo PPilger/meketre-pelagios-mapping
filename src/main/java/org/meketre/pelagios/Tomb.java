@@ -1,23 +1,24 @@
+package org.meketre.pelagios;
 
-public class Fragment extends Annotation {
+public class Tomb extends Annotation {
 	private int id;
 	private Integer necropolisId;
 	
 	private String meketreUrl;
 
-	public Fragment(Tupel tupel){
+	public Tomb(Tupel tupel) {
 		id = tupel.getIntAttribute(0);
 		necropolisId = tupel.getIntAttribute(7);
 		
 		TermMap termMap = TermMap.getInstance();
 		
 		if(necropolisId != null) {
-			meketreUrl = termMap.getUrl(necropolisId);
+			meketreUrl = TermMap.getInstance().getUrl(necropolisId);
 		}
-		
-		getAttributes().put("location", termMap.getText(tupel.getIntAttribute(9)));
+
 		getAttributes().put("necropolis", termMap.getText(tupel.getIntAttribute(7)));
-		getAttributes().put("date", termMap.getText(tupel.getIntAttribute(6)));
+		getAttributes().put("tombNumber", tupel.getStringAttribute(6));
+		getAttributes().put("date", termMap.getText(tupel.getIntAttribute(9)));
 		getAttributes().put("owner", termMap.getText(tupel.getIntAttribute(8)));
 	}
 
@@ -37,6 +38,6 @@ public class Fragment extends Annotation {
 
 	@Override
 	public String getType() {
-		return "fragment";
+		return "tomb";
 	}
 }
