@@ -1,3 +1,4 @@
+package org.meketre.pelagios;
 import java.util.HashMap;
 import java.util.Map;
 
