@@ -1,6 +1,6 @@
 package org.meketre.pelagios;
 
-public class Fragment extends Annotation {
+public class Fragment extends Item {
 	private int id;
 	private Integer necropolisId;
 	

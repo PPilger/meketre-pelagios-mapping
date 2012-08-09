@@ -1,6 +1,6 @@
 package org.meketre.pelagios;
 
-public class Tomb extends Annotation {
+public class Tomb extends Item {
 	private int id;
 	private Integer necropolisId;
 	

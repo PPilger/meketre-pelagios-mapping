@@ -3,7 +3,7 @@ import java.io.PrintStream;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public abstract class Annotation {
+public abstract class Item {
 	private String pelagiosUrl;
 	private Map<String, String> attributes = new LinkedHashMap<String, String>();
 

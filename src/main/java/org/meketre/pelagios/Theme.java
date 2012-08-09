@@ -1,22 +1,22 @@
 package org.meketre.pelagios;
 import java.util.List;
 
-public class Theme extends Annotation {
+public class Theme extends Item {
 	private int id;
 	private Integer originId;
 
-	private Annotation origin;
+	private Item origin;
 
-	public Theme(Tupel tupel, List<Annotation> annotations) {
+	public Theme(Tupel tupel, List<Item> items) {
 		id = tupel.getIntAttribute(0);
 		originId = tupel.getIntAttribute(8);
 		
 		TermMap termMap = TermMap.getInstance();
 
 		if (originId != null) {
-			for (Annotation a : annotations) {
-				if (a.getId() == originId) {
-					origin = a;
+			for (Item item : items) {
+				if (item.getId() == originId) {
+					origin = item;
 					break;
 				}
 			}
