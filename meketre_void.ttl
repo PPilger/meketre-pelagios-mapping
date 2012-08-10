@@ -1,0 +1,43 @@
+@prefix : <http://www.meketre.org/pelagios/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+      
+:meketre a void:Dataset;
+  # Title and description of SAWS Project
+  dcterms:title "Meketre";
+  dcterms:description "Meketre is an interdisciplinary research project, conducted at the Institute of Egyptology in cooperation with the research group Multimedia Information Systems at the University of Vienna. It seeks to systematically collect, research, and study the reliefs and paintings of Middle Kingdom tombs of Ancient Egypt.";
+  dcterms:publisher "Meketre";
+      
+  # A homepage with information ABOUT the data
+  foaf:homepage <http://www.meketre.org/repository/>;
+                        
+  # License
+  dcterms:license <http://creativecommons.org/licenses/by/3.0/>;
+         
+  # Top-level dataset
+  void:dataDump <http://meketre.org/data/pelagios/meketre.rdf>;
+       
+  # Subsets
+  void:subset :tombs;
+  void:subset :themes;
+  void:subset :fragments;
+  .
+                           
+:tombs a void:Dataset;
+  dcterms:title "Tombs";
+  dcterms:description "";
+  void:uriSpace "http://meketre.org/tomb";
+  . 
+                         
+:themes a void:Dataset;
+  dcterms:title "Themes";
+  dcterms:description "";
+  void:uriSpace "http://meketre.org/theme";
+  . 
+
+:fragments a void:Dataset;
+  dcterms:title "Fragments";
+  dcterms:description "";
+  void:uriSpace "http://meketre.org/fragment";
+  . 
