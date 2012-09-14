@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:saws="http://www.purl.org/saws/ontology#"
+    xmlns:oac="http://www.openannotation.org/ns/">
+    
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a1">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/501625/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a2">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/579885/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a3">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/579885/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>
+
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a4">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/462492/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a5">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491656/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>    
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a6">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491656/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>    
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a7">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/991380/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation>    
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a8">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/579885/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a9">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/579885/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a10">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/501625/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a11">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/501625/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#eBoc1__Aristotiles__fechos__ci1__a12">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/501625/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/eBocC#__Aristotiles__fechos__ci1" />
+        <dct:title>Bocados de Oro, eBocC#__Aristotiles__fechos__ci1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Mun_Thales___Thales_ci_n1__a1">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/766/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Mun_Thales#___Thales_ci_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Mun_Thales#___Thales_ci_n1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Mun_Thales___Thales_ci_n1__a2">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/599799/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Mun_Thales#___Thales_ci_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Mun_Thales#___Thales_ci_n1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Thales___Thales_ci1_n1__a1">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/766/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Thales#___Thales_ci1_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Thales#___Thales_ci1_n1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Thales___Thales_ci1_n1__a2">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/599799/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Thales#___Thales_ci1_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Thales#___Thales_ci1_n1</dct:title>    
+    </oac:Annotation>     
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Thales_Trans___Thales_tr_ci1_n1__a1">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/766/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Thales_Trans#___Thales_tr_ci1_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Thales_Trans#___Thales_tr_ci1_n1</dct:title>    
+    </oac:Annotation> 
+    
+    <oac:Annotation rdf:about="http://www.ancientwisdoms.ac.uk/mss/SAWSpelagios#MSH_Thales_Trans___Thales_tr_ci1_n1__a2">
+        <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation/"/>
+        <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/599799/" />
+        <oac:hasTarget rdf:resource="http://www.ancientwisdoms.ac.uk/mss/MSH_Thales_Trans#___Thales_tr_ci1_n1" />
+        <dct:title>منتخب صوان الحكمة, MSH_Thales_Trans#___Thales_tr_ci1_n1</dct:title>    
+    </oac:Annotation>    
+    
+</rdf:RDF>
